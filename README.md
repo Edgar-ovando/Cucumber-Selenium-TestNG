@@ -2,13 +2,12 @@
 
 ## 📌 Project Description
 
-Automation framework developed using BDD (Behavior Driven Development) approach to test login scenarios for:
+The framework validates different login scenarios for the nopCommerce Admin Portal.
 
 🔗 Web Application Link:
 ```
 http://admin-demo.nopcommerce.com/login
 ```
-The framework validates different login scenarios for the nopCommerce Admin Portal.
 ---
 
 ## 🛠️ Tech Stack
@@ -62,6 +61,7 @@ The framework validates different login scenarios for the nopCommerce Admin Port
 ✅ Configurable test properties
 
 ✅ Logging implementation with Log4j2
+
 ---
 
 ## 📊 Reporting
