@@ -1,4 +1,4 @@
-<h1> 🚀  Test Automation Framework using Java + Cucumber BDD + Selenium + TestNG </h1>
+<h1> 🚀  Test Automation Framework </h1>
 
 ## 📌 Project Description
 
