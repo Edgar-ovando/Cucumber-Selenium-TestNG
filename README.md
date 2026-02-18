@@ -1,12 +1,13 @@
-### 🧪 nopCommerce Admin Login Automation
----
+<h1> 🧪 Test Automation Framework using Java + Cucumber BDD + Selenium + TestNG </h1>
 
 ## 📌 Project Description
 
 Automation framework developed using BDD (Behavior Driven Development) approach to test login scenarios for:
 
 🔗 Web Application Link:
+```
 http://admin-demo.nopcommerce.com/login
+```
 
 The framework validates different login scenarios for the nopCommerce Admin Portal.
 
@@ -43,25 +44,26 @@ nopcommerce-login-automation
 ```
 ---
 🧪 Test Scenarios Covered
+
 ✅ Valid Login Scenario
 
-User enters valid email and password
+- User enters valid email and password
 
-User clicks login
+- User clicks login
 
-User is redirected to dashboard
+- User is redirected to dashboard
 
 ❌ Invalid Login Scenario
 
-User enters invalid credentials
+- User enters invalid credentials
 
-Error message is displayed
+- Error message is displayed
 
 ⚠️ Empty Fields Validation
 
-User tries to login without entering credentials
+- User tries to login without entering credentials
 
-Validation messages are displayed
+- Validation messages are displayed
 
 ---
 
@@ -83,11 +85,11 @@ Run the TestNG runner class from your IDE.
 
 📊 Reporting
 
-TestNG Reports
+- TestNG Reports
 
-Cucumber HTML Reports
+- Cucumber HTML Reports
 
-Console Logs with Log4j2
+- Console Logs with Log4j2
 
 Reports are generated under:
 ```
