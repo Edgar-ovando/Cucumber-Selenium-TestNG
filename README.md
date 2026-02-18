@@ -1,29 +1,31 @@
-🧪 nopCommerce Admin Login Automation
-<p align="center"> <!-- Tech Badges --> <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk" /> <img src="https://img.shields.io/badge/Selenium-Automation-green?style=for-the-badge&logo=selenium" /> <img src="https://img.shields.io/badge/Cucumber-BDD-brightgreen?style=for-the-badge&logo=cucumber" /> <img src="https://img.shields.io/badge/TestNG-Testing-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Log4j2-Logging-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven" /> </p>
-📌 Project Description
+### 🧪 nopCommerce Admin Login Automation
+---
+
+## 📌 Project Description
 
 Automation framework developed using BDD (Behavior Driven Development) approach to test login scenarios for:
 
-🔗 Application Under Test:
+🔗 Web Application Link:
 http://admin-demo.nopcommerce.com/login
 
 The framework validates different login scenarios for the nopCommerce Admin Portal.
 
+---
+
 🛠️ Tech Stack
 
-☕ Java
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">  
+</p>
 
-🥒 Cucumber (BDD)
-
-🌐 Selenium WebDriver
-
-🧪 TestNG
-
-📦 Maven
-
-📝 Log4j2
+---
 
 📂 Project Structure
+```
 nopcommerce-login-automation
 │
 ├── src/test/java
@@ -38,7 +40,8 @@ nopcommerce-login-automation
 │
 ├── pom.xml
 └── README.md
-
+```
+---
 🧪 Test Scenarios Covered
 ✅ Valid Login Scenario
 
@@ -60,16 +63,23 @@ User tries to login without entering credentials
 
 Validation messages are displayed
 
+---
+
 ▶️ How to Run the Project
 1️⃣ Clone Repository
+```
 git clone https://github.com/your-username/your-repo.git
-
+```
 2️⃣ Run with Maven
+```
 mvn clean test
+```
 
 3️⃣ Run Specific Runner
-
+```
 Run the TestNG runner class from your IDE.
+```
+---
 
 📊 Reporting
 
@@ -80,8 +90,11 @@ Cucumber HTML Reports
 Console Logs with Log4j2
 
 Reports are generated under:
-
+```
 /target/cucumber-reports
+```
+
+---
 
 🧱 Framework Design Pattern
 
@@ -94,6 +107,8 @@ Reusable Step Definitions
 Configurable test properties
 
 Logging implementation with Log4j2
+
+---
 
 👨‍💻 Author
 
