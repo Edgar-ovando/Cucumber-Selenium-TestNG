@@ -1,4 +1,4 @@
-<h1> 🧪 Test Automation Framework using Java + Cucumber BDD + Selenium + TestNG </h1>
+<h1> 🚀  Test Automation Framework using Java + Cucumber BDD + Selenium + TestNG </h1>
 
 ## 📌 Project Description
 
@@ -8,42 +8,26 @@ Automation framework developed using BDD (Behavior Driven Development) approach 
 ```
 http://admin-demo.nopcommerce.com/login
 ```
-
 The framework validates different login scenarios for the nopCommerce Admin Portal.
+---
+
+## 🛠️ Tech Stack
+
+☕ Java
+
+🥒 Cucumber (BDD)
+
+🌐 Selenium WebDriver
+
+🧪 TestNG
+
+📦 Maven
+
+📝 Log4j2
 
 ---
 
-🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">  
-</p>
-
----
-
-📂 Project Structure
-```
-nopcommerce-login-automation
-│
-├── src/test/java
-│   ├── stepDefinitions
-│   ├── pageObjects
-│   ├── runners
-│
-├── src/test/resources
-│   ├── features
-│   │   └── login.feature
-│   ├── config.properties
-│
-├── pom.xml
-└── README.md
-```
----
-🧪 Test Scenarios Covered
+## 🧪 Test Scenarios Covered
 
 ✅ Valid Login Scenario
 
@@ -67,7 +51,35 @@ nopcommerce-login-automation
 
 ---
 
-▶️ How to Run the Project
+## 🧱 Framework Design Pattern
+
+✅ Page Object Model (POM)
+
+✅ BDD with Gherkin
+
+✅ Reusable Step Definitions
+
+✅ Configurable test properties
+
+✅ Logging implementation with Log4j2
+---
+
+## 📊 Reporting
+
+- TestNG Reports
+
+- Cucumber HTML Reports
+
+- Console Logs with Log4j2
+
+Reports are generated under:
+```
+/target/cucumber-reports
+```
+---
+
+## ▶️ How to Run the Project
+
 1️⃣ Clone Repository
 ```
 git clone https://github.com/your-username/your-repo.git
@@ -83,33 +95,23 @@ Run the TestNG runner class from your IDE.
 ```
 ---
 
-📊 Reporting
-
-- TestNG Reports
-
-- Cucumber HTML Reports
-
-- Console Logs with Log4j2
-
-Reports are generated under:
+## 📂 Project Structure
 ```
-/target/cucumber-reports
+nopcommerce-login-automation
+│
+├── src/test/java
+│   ├── stepDefinitions
+│   ├── pageObjects
+│   ├── runners
+│
+├── src/test/resources
+│   ├── features
+│   │   └── login.feature
+│   ├── config.properties
+│
+├── pom.xml
+└── README.md
 ```
-
----
-
-🧱 Framework Design Pattern
-
-Page Object Model (POM)
-
-BDD with Gherkin
-
-Reusable Step Definitions
-
-Configurable test properties
-
-Logging implementation with Log4j2
-
 ---
 
 👨‍💻 Author
