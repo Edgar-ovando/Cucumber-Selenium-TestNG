@@ -25,4 +25,4 @@ Feature:  Login
     Examples:
     |email| |password|
     |admin@yourstore.com||admin|
-    |admin1@yourstore.com||admin123|
+
