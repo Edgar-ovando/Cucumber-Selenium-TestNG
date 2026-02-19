@@ -6,8 +6,6 @@ The framework validates different login scenarios for the nopCommerce Admin Port
 
 🔗 http://admin-demo.nopcommerce.com/login
 
----
-
 ## 🛠️ Tech Stack
 
 - ☕ Java
