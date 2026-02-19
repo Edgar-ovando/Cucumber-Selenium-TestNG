@@ -1,13 +1,11 @@
-<h1> 🚀  Test Automation Framework </h1>
+<h1> 🚀 Cucumber Test Automation Framework </h1>
 
 ## 📌 Project Description
 
 The framework validates different login scenarios for the nopCommerce Admin Portal.
 
-🔗 Web Application Link:
-```
-http://admin-demo.nopcommerce.com/login
-```
+🔗 http://admin-demo.nopcommerce.com/login
+
 ---
 
 ## 🛠️ Tech Stack
