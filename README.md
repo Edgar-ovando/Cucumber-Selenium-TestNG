@@ -12,27 +12,12 @@ http://admin-demo.nopcommerce.com/login
 
 ## 🛠️ Tech Stack
 
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber Badge"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG Badge"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven Badge"/>
-  </li>
-  <li>
-    <img src="https://img.shields.io/badge/Log4j2-2C2255?style=for-the-badge&logo=apache&logoColor=white" alt="Log4j2 Badge"/>
-  </li>
-</ul>
-
+- ☕ Java
+- 🥒 Cucumber (BDD)
+- 🌐 Selenium WebDriver
+- 🧪 TestNG
+- 📦 Maven
+- 📝 Log4j2
 
 ---
 
