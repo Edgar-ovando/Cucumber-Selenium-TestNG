@@ -11,7 +11,6 @@ Feature:  Login
     Then Page Title should be "nopCommerce demo store. Login"
     And close browser
 
-
   @regression
   Scenario Outline: Login Data Driven
     Given User launch Chrome browser

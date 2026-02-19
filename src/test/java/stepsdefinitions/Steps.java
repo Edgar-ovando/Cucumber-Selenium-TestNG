@@ -36,6 +36,8 @@ public class Steps extends BaseClass {
 
         //Browser
         String browser = p.getProperty("browser");
+
+
         switch (browser.toLowerCase())
         {
             case "chrome":
@@ -63,8 +65,6 @@ public class Steps extends BaseClass {
 
 
     }
-
-
 
 
     @Given("User launch Chrome browser")
